@@ -1,0 +1,1 @@
+This is a space to start learning python better using the PyCharm IDE. I'm gunning to learn python thoroughly so that I can display usage of different data structures, projects, and show a general understanding of how to program at an intermediate level in python.
