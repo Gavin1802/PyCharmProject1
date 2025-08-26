@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7fb55e2-5498-4916-a7cd-2a2160eb52db" name="Changes" comment="new file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vowel-Censored Words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Vowel-Censored Words.py" afterDir="false" />
-    </list>
+    <list default="true" id="c7fb55e2-5498-4916-a7cd-2a2160eb52db" name="Changes" comment="new file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <workItem from="1753819876339" duration="331000" />
       <workItem from="1753820749887" duration="1195000" />
       <workItem from="1756220073837" duration="655000" />
-      <workItem from="1756220742029" duration="1167000" />
+      <workItem from="1756220742029" duration="1210000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -121,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753822067969</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new file">
+      <option name="closed" value="true" />
+      <created>1756221928142</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756221928142</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
