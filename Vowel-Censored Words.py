@@ -2,16 +2,21 @@
 # list containing only the words that contain more vowels than consonants.
 
 def more_vowels_than_consonants(word_list):
-    # TODO: Use a list comprehension to filter words
-    vowel_count = 0
-    consonant_count = 0
-
-    result = [
-        # your code here
-    ]
+    result = []
     for word in word_list:
-        if
+        if vowel(word) > 0:
+            result.append(word)
     return result
+
+def vowel(word):
+    count = 0
+    for i in word:
+        if i.lower() not in 'aeiou':
+            count -= 1
+        else:
+            count += 1
+
+    return count
 
 
 # Test
