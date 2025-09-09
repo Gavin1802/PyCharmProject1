@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7fb55e2-5498-4916-a7cd-2a2160eb52db" name="Changes" comment="finished file 2">
-      <change afterPath="$PROJECT_DIR$/Word Length Categorizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Binary Search.executor": "Run",
     "Python.Perfect Squares.executor": "Run",
     "Python.Vowel-Censored Words.executor": "Run",
     "Python.Word Length Categorizer.executor": "Run",
@@ -96,7 +97,7 @@
       <workItem from="1753819876339" duration="331000" />
       <workItem from="1753820749887" duration="1195000" />
       <workItem from="1756220073837" duration="655000" />
-      <workItem from="1756220742029" duration="4421000" />
+      <workItem from="1756220742029" duration="8070000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -162,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756223236119</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finished file 2">
+      <option name="closed" value="true" />
+      <created>1756225207790</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756225207790</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,5 +201,6 @@
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$Word_Length_Categorizer.coverage" NAME="Word Length Categorizer Coverage Results" MODIFIED="1756225078306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$Perfect_Squares.coverage" NAME="Perfect Squares Coverage Results" MODIFIED="1756222931463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$Vowel_Censored_Words.coverage" NAME="Vowel-Censored Words Coverage Results" MODIFIED="1756221658024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$Binary_Search.coverage" NAME="Binary Search Coverage Results" MODIFIED="1757448067895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
